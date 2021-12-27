@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .meta-music{
+     font-weight: bold;
+ }
+ .meta-music span{
+     font-weight: normal;
+ }
